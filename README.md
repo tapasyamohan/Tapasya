@@ -25,6 +25,7 @@ Built an end-to-end image search system combining LLaMA-based caption generation
 
 Designed with Azure Blob Storage and Azure Table Storage for scalable image and metadata handling, and structured as a production-style backend rather than a simple demo.
 
+---
 
 ### 🤖 Multimodal Agent (LangGraph-based)
 Designed a custom agent that:
