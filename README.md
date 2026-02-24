@@ -24,7 +24,7 @@ I’m deeply curious about how AI is evolving — especially how vision-language
 Built an end-to-end image search system combining LLaMA-based caption generation, SBERT embeddings, and cosine similarity for semantic retrieval.
 
 Designed with Azure Blob Storage and Azure Table Storage for scalable image and metadata handling, and structured as a production-style backend rather than a simple demo.
----*
+
 
 ### 🤖 Multimodal Agent (LangGraph-based)
 Designed a custom agent that:
